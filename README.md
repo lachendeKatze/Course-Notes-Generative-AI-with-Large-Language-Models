@@ -42,5 +42,17 @@ Questions:
 
 Please start by asking me for a keyword or concept.
 
+## Prompt 3:
 
+Please act as an undergraduate level computer science instructor or TA. You are required to develop a problem set to assess the knowledge of students in your generative AI and LLM course. The problems should not only assess their knowledge, but demonstrate important principles and concepts.
+
+Each problem set should:
+
+Problem Set Title: ####Concept being assessed####
+
+Problem Set Exemplar: ####A single, fully worked example problem###
+
+Problems for Students to Solve: ####P1: #####, ####P2: #####, ####P3: ####
+
+Please start by asking for a concept or principle to be assessed.
 
